@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:4c1d95,75:6d28d9,100:8b5cf6&height=220&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Web3%20%E2%80%A2%20AI%20Agents&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:4c1d95,75:6d28d9,100:8b5cf6&height=220&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=Blockchain+Developer+%40+GIGH+Technologies;4%2B+Years+Shipping+On-Chain+Marketplaces%2C+Wallets+%26+Payment+Rails;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Web3+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Contracts;Building+the+parts+of+Web3+that+users+actually+touch." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=Full-Stack+Software+Engineer;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@
 
 ## About
 
-I'm a full-stack software engineer with **4+ years** of production experience designing, shipping, and maintaining consumer-facing Web3 systems — marketplaces, wallets, payment rails, and AI-agent workflows layered on top of blockchains. My work sits at the intersection of **product engineering, applied AI, and on-chain infrastructure**: React and Next.js at the top of the stack, Node.js and FastAPI at the service layer, PostgreSQL and Firebase for persistence, and Solidity-adjacent contract integration underneath. I care about the un-glamorous half of Web3 — making contract calls survive slow chains, keeping wallet UX legible when the RPC is flaky, and shipping payment flows that don't collapse under Monday-morning traffic. I own features end-to-end, review code, and mentor the bench behind me.
+I'm a full-stack software engineer with **4+ years** of production experience designing, shipping, and maintaining consumer-facing Web3 systems, including marketplaces, wallets, payment rails, and AI-agent workflows layered on top of blockchains. My work sits at the intersection of **product engineering, applied AI, and on-chain infrastructure**: React and Next.js at the top of the stack, Node.js and FastAPI at the service layer, PostgreSQL and Firebase for persistence, and Solidity-adjacent contract integration underneath. I care about the un-glamorous half of Web3: making contract calls survive slow chains, keeping wallet UX legible when the RPC is flaky, and shipping payment flows that don't collapse under Monday-morning traffic. I own features end-to-end, review code, and mentor the bench behind me.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-4C1D95?style=for-the-badge&labelColor=0d0221" />
@@ -54,7 +54,7 @@ I'm a full-stack software engineer with **4+ years** of production experience de
   <img src="https://img.shields.io/badge/Product%20Engineering-Ship%20%26%20Own-A78BFA?style=for-the-badge&labelColor=0d0221" />
 </p>
 
-**Open To** — Senior / Staff Full-Stack roles · Consumer Web3 · On-chain Fintech · AI-Agent product teams · US / EU timezone overlap · Remote-first or relocation for the right team.
+**Open To**: Senior / Staff Full-Stack roles · Consumer Web3 · On-chain Fintech · AI-Agent product teams · US / EU timezone overlap · Remote-first or relocation for the right team.
 
 ---
 
@@ -96,12 +96,12 @@ I'm a full-stack software engineer with **4+ years** of production experience de
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐⭐ | Production RAG pipelines for automated data retrieval workflows — +40% query efficiency on Inflectiv's multi-chain data marketplace. |
+| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐⭐ | Production RAG pipelines for automated data retrieval workflows, delivering +40% query efficiency on Inflectiv's multi-chain data marketplace. |
 | **AI Agent Orchestration** | ⭐⭐⭐⭐⭐ | Multi-step agent workflows over structured + unstructured on-chain data, guarded by rate-limiting and credit billing. |
 | **LLM Integration** | ⭐⭐⭐⭐☆ | OpenAI + Anthropic APIs wired into Next.js / FastAPI backends with streaming, tool use, and prompt caching. |
 | **Vector Search & Embeddings** | ⭐⭐⭐⭐☆ | Embedding pipelines, hybrid search, and re-ranking for high-precision retrieval over domain corpora. |
 | **Prompt Engineering** | ⭐⭐⭐⭐☆ | Systematic prompt design, few-shot construction, and evals for reliable agent behavior in production. |
-| **AI + Web3 Fusion** | ⭐⭐⭐⭐⭐ | On-chain-aware AI agents — reading smart-contract state, indexing chain data, triggering wallet actions safely. |
+| **AI + Web3 Fusion** | ⭐⭐⭐⭐⭐ | On-chain-aware AI agents that read smart-contract state, index chain data, and trigger wallet actions safely. |
 
 </div>
 
@@ -110,7 +110,7 @@ I'm a full-stack software engineer with **4+ years** of production experience de
 ## Featured Projects
 
 <details>
-<summary><b>🌐 Inflectiv — Multi-Chain AI Agent & Data Marketplace</b></summary>
+<summary><b>🌐 Inflectiv | Multi-Chain AI Agent & Data Marketplace</b></summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ Architected the full-stack platform end-to-end: designed the retrieval pipeline 
 </details>
 
 <details>
-<summary><b>🖼️ Bazaa — NFT Marketplace</b></summary>
+<summary><b>🖼️ Bazaa | NFT Marketplace</b></summary>
 
 <br/>
 
@@ -145,7 +145,7 @@ An OpenSea-style NFT marketplace where a stranger can land on a page, connect a 
 | **Impact** | **-18%** failed transactions through hardened submission + retry logic |
 | **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
-Built the marketplace flows end-to-end — mint, list, discover, purchase — with production-grade wallet authentication, smart-contract interaction layers, and defensive transaction pipelines tuned for flaky RPCs and slow-chain conditions.
+Built the marketplace flows end-to-end (mint, list, discover, purchase) with production-grade wallet authentication, smart-contract interaction layers, and defensive transaction pipelines tuned for flaky RPCs and slow-chain conditions.
 
 </details>
 
@@ -170,7 +170,7 @@ Engineered a delegated-proof-of-stake dashboard tightly coupled with an off-chai
 </details>
 
 <details>
-<summary><b>📰 VanarChain — Web CMS Platform</b></summary>
+<summary><b>📰 VanarChain | Web CMS Platform</b></summary>
 
 <br/>
 
@@ -185,7 +185,7 @@ A production Next.js CMS engineered for SEO-heavy content and scalable feature e
 | **Impact** | **+20%** organic reach through dynamic routing and structured metadata |
 | **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
-Designed a modular content architecture with server-side rendering, dynamic route generation, and automated sitemap emission — enabling the growth team to scale content without engineering bottlenecks.
+Designed a modular content architecture with server-side rendering, dynamic route generation, and automated sitemap emission, enabling the growth team to scale content without engineering bottlenecks.
 
 </details>
 
@@ -193,7 +193,7 @@ Designed a modular content architecture with server-side rendering, dynamic rout
 
 ## Experience
 
-### **Blockchain Developer** — GIGH Technologies
+### **Blockchain Developer** | GIGH Technologies
 *Apr 2026 – Present · Full-time · Hybrid · Lahore, Pakistan*
 
 Developing and maintaining production Web2 + Web3 applications, with blockchain functionality, wallet integrations, and Web3 workflows layered under modern full-stack systems.
@@ -208,7 +208,7 @@ Developing and maintaining production Web2 + Web3 applications, with blockchain 
 
 ---
 
-### **Software Engineering Consultant** — Inflectiv
+### **Software Engineering Consultant** | Inflectiv
 *May 2026 – Aug 2026 · Contract · Hybrid · Lahore, Pakistan*
 
 Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, contributing full-stack features and hardening payment + storage pipelines.
@@ -223,7 +223,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 ---
 
-### **Full Stack Engineer** — Inflectiv
+### **Full Stack Engineer** | Inflectiv
 *Jul 2025 – May 2026 · Full-time*
 
 - Designed and implemented scalable product features using modern JavaScript / TypeScript.
@@ -236,7 +236,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 ---
 
-### **Full Stack Engineer** — BIG IMMERSIVE
+### **Full Stack Engineer** | BIG IMMERSIVE
 *Dec 2022 – Jul 2025 · Full-time · On-site · Pakistan*
 
 - Developed and maintained scalable product features across a modern JavaScript stack.
@@ -249,7 +249,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 ---
 
-### **Full-stack (MERN) Developer** — XEEMAX Technologies
+### **Full-stack (MERN) Developer** | XEEMAX Technologies
 *Jan 2022 – Feb 2023 · Internship · Lahore, Pakistan*
 
 - Built responsive cross-browser interfaces using HTML5, CSS3, and JavaScript.
@@ -330,16 +330,16 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 <div align="center">
 
 <a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamranhafeez-3499&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c4dc&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamranhafeez-3499&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c4dc&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=midnight-purple&hide_border=true&background=0d0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9c4dc&dates=6D28D9" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=radical&hide_border=true&background=0d0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9c4dc&dates=6D28D9" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhafeez-3499&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c4dc&langs_count=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhafeez-3499&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c4dc&langs_count=10" alt="Top Languages"/>
 </a>
 
 </div>
@@ -349,7 +349,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamranhafeez-3499&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kamranhafeez-3499&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
@@ -425,7 +425,7 @@ open_to:
 
 <div align="center">
 
-<i>"Own the un-glamorous half of the system — that's where reliability lives."</i>
+<i>"Own the un-glamorous half of the system. That's where reliability lives."</i>
 
 <br/><br/>
 
