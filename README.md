@@ -76,11 +76,12 @@ I'm a full-stack software engineer with **4+ years** of production experience de
 
 **Web3 & Blockchain**
 
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Web3"/>
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Web3"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Wagmi-6D28D9?style=for-the-badge&logo=wagmi&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Wagmi-6D28D9?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&labelColor=0d0221" />
 
 **Cloud, DevOps & Tooling**
 
