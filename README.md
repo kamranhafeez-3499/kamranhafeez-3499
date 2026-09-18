@@ -328,23 +328,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamranhafeez-3499&theme=holi" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=holi&hide_border=true" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamranhafeez-3499&theme=holi" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamranhafeez-3499&theme=holi" alt="Most Commit Language"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamranhafeez-3499&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=holi&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ---
