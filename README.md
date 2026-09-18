@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:065f46,50:10b981,100:34d399&height=220&section=header&text=Kamran%20Hafeez&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=68&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:065f46,50:10b981,100:065f46&height=180&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20Software%20Engineer&descSize=17&descAlignY=78&animation=fadeIn" width="100%"/>
 
 <a href="https://kamranhafeez-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP;Building+consumer-facing+Web3+that+users+actually+touch." alt="Typing SVG" />
