@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Blockchain+Developer+%40+GIGH+Technologies;4%2B+yrs+shipping+on-chain+marketplaces%2C+wallets+%26+payment+rails;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Web3+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Contracts;Multi-chain+builder+%E2%80%94+EVM+%26+Sui+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=Blockchain+Developer+%40+GIGH+Technologies;4%2B+yrs+shipping+on-chain+marketplaces%2C+wallets+%26+payment+rails;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Web3+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Contracts;Multi-chain+builder+%E2%80%94+EVM+%26+Sui+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -76,10 +76,6 @@ highlights:
   - "🖼️ Shipped OpenSea-style NFT marketplace end-to-end"
   - "💳 Hybrid Stripe + crypto billing with rate-limited credit system"
   - "🧑‍🏫 Code reviews + mentorship for junior engineers"
-
-education:
-  degree: "BS in Software Engineering"
-  school: "University of Management and Technology (UMT), Lahore"
 
 languages: [English (Fluent), Urdu (Native)]
 ```
