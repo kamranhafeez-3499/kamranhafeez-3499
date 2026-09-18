@@ -329,18 +329,12 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 <div align="center">
 
-<a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamranhafeez-3499&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c4dc&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=radical&hide_border=true&background=0d0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9c4dc&dates=6D28D9" alt="Streak Stats"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamranhafeez-3499&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c4dc&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=radical&hide_border=true&background=0d0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9c4dc&dates=6D28D9" alt="Streak Stats"/>
 
 <br/><br/>
 
-<a href="https://github.com/kamranhafeez-3499">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhafeez-3499&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c4dc&langs_count=10" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranhafeez-3499&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c4dc&langs_count=10" alt="Top Languages"/>
 
 </div>
 
