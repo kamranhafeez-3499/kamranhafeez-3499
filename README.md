@@ -259,7 +259,7 @@ Run it once manually via the **Actions** tab.
 
 <div align="center">
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/kamranhafeez/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
