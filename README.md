@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,25:0f1f18,50:065f46,75:059669,100:10b981&height=220&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=1&pause=999999&color=10B981&center=true&vCenter=true&width=900&height=110&lines=Kamran+Hafeez" alt="Kamran Hafeez" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=Full-Stack+Software+Engineer;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
-</a>
+```console
+> whoami
+Full-Stack Software Engineer · Web3 · AI Agents · Cloud-Native
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=34D399&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=36&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:10b981,100:0a0f0d&height=3&section=header" width="100%"/>
 
 <br/>
 
