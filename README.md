@@ -357,7 +357,13 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamranhafeez-3499&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=6D28D9&area=true&area_color=4C1D95&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamranhafeez-3499&theme=radical" alt="Profile Details"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamranhafeez-3499&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamranhafeez-3499&theme=radical&utcOffset=5" alt="Productive Time"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamranhafeez-3499&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamranhafeez-3499&theme=radical" alt="Most Commit Language"/>
 </div>
 
 ---
