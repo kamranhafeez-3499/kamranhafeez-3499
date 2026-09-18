@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/kamranhafeez-3499">
+  <a href="https://kamranhafeez-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/kamranhafeez/">
@@ -394,7 +394,7 @@ open_to:
 <a href="https://github.com/kamranhafeez-3499">
   <img src="https://img.shields.io/badge/GitHub-kamranhafeez--3499-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" />
 </a>
-<a href="https://github.com/kamranhafeez-3499">
+<a href="https://kamranhafeez-dev.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" />
 </a>
 
