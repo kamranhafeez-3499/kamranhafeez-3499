@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:059669,100:10b981&height=200&section=header&text=Kamran%20Hafeez&fontSize=56&fontColor=ecfdf5&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Web3%20%C2%B7%20AI%20Agents&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" alt="Kamran Hafeez — Full-Stack Software Engineer" width="100%"/>
 
 <a href="https://kamranhafeez-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP;Building+consumer-facing+Web3+that+users+actually+touch." alt="Typing SVG" />
