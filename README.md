@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:7B2FFF&height=180&section=header&text=Kamran%20Hafeez&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20Web3%20%7C%20Cloud-Native&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:7B2FFF&height=180&section=header&text=Kamran%20Hafeez&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Blockchain%20%E2%80%A2%20Web3%20%E2%80%A2%20Fintech%20%E2%80%A2%20AI%20Agents&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Full-Stack+Engineer+%7C+React.js+%7C+Next.js+%7C+Node.js;Web3+%E2%80%A2+Smart+Contracts+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js;AI-Powered+Workflows+%26+RAG+Integrations;Cloud-Native+on+AWS+%26+GCP+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Blockchain+Developer+%40+GIGH+Technologies;4%2B+yrs+shipping+on-chain+marketplaces%2C+wallets+%26+payment+rails;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Web3+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Contracts;Multi-chain+builder+%E2%80%94+EVM+%26+Sui+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,35 +40,74 @@
 ```yaml
 name: Kamran Hafeez
 handle: "@kamranhafeez-3499"
-location: "Pakistan 🇵🇰 (Open to Remote 🌍)"
-role: Full-Stack Software Engineer
+location: "Lahore, Pakistan 🇵🇰 (Remote / Open to Relocation 🌍)"
+role: Blockchain Developer @ GIGH Technologies
+tagline: >
+  I build the parts of Web3 that users actually touch —
+  marketplaces, wallets, and AI-agent workflows on top of chains.
 
-experience: 3+ years shipping production web apps
+experience: 4+ years shipping on-chain products
+open_to: Consumer Web3 · On-chain Fintech · AI-Agent product teams (US/EU overlap)
 
 companies:
-  - BigImmersive        # Dec 2022 – Present
-  - Xeemax Technologies # Jan 2022 – Mar 2022
+  - GIGH Technologies    # Apr 2026 – Present  · Blockchain Developer
+  - Inflectiv            # 2025 – 2026         · Consultant + Full Stack Engineer
+  - BIG IMMERSIVE        # Dec 2022 – Jul 2025 · Full Stack Engineer (2y 8m)
+  - XEEMAX Technologies  # Jan 2022 – Feb 2023 · MERN Intern
+
+top_skills:
+  - TypeScript
+  - Next.js
+  - Web3
+  - AI Agents
+  - Smart Contracts
 
 focus:
-  - Production-grade React.js & Next.js Applications
-  - Node.js / Express.js / FastAPI Backends
-  - Web3 dApps, Smart Contracts & Multi-Chain Integrations
-  - AI-Powered Workflows & RAG-Based Systems
-  - Cloud-Native Architecture on AWS & GCP
+  - On-chain Marketplaces (OpenSea-style NFT platforms)
+  - Wallet Connectivity & Transaction Flows
+  - Multi-chain Integrations (EVM, Sui)
+  - RAG-Powered AI Agent Workflows
+  - Stripe + Crypto Payment Rails
+  - Production React / Next.js / Node.js / FastAPI
 
 highlights:
-  - "⚡ Improved app performance by 25% via optimized SSR + rendering"
-  - "🧩 Designed 20+ reusable component architectures (-30% dev time)"
-  - "🤖 RAG integrations improved query efficiency by 35–40%"
-  - "🔗 Web3 SaaS spanning 4+ chains (EVM, Sui, Dogecoin)"
-  - "🎯 95% Lighthouse scores across delivered interfaces"
+  - "🔗 Multi-chain AI-agent data marketplace @ Inflectiv (EVM + Sui)"
+  - "🤖 RAG workflows improved query efficiency by 40%"
+  - "🖼️ Shipped OpenSea-style NFT marketplace end-to-end"
+  - "💳 Hybrid Stripe + crypto billing with rate-limited credit system"
+  - "🧑‍🏫 Code reviews + mentorship for junior engineers"
 
 education:
   degree: "BS in Software Engineering"
-  school: "University of Management and Technology, Lahore (2021)"
+  school: "University of Management and Technology (UMT), Lahore"
 
 languages: [English (Fluent), Urdu (Native)]
 ```
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Duration |
+|:---|:---|:---:|
+| **Blockchain Developer** · Full-time · Hybrid | **GIGH Technologies** | Apr 2026 – Present |
+| **Software Engineering Consultant** · Contract | **Inflectiv** | May 2026 – Aug 2026 |
+| **Full Stack Engineer** · Full-time | **Inflectiv** | Jul 2025 – May 2026 |
+| **Full Stack Engineer** · Full-time · On-site | **BIG IMMERSIVE** | Dec 2022 – Jul 2025 |
+| **Full-stack (MERN) Developer** · Internship | **XEEMAX Technologies** | Jan 2022 – Feb 2023 |
+
+</div>
+
+**Current — Blockchain Developer @ GIGH Technologies**
+Building production Web2 + Web3 apps in React, Next.js, TypeScript, and Node.js. Integrating smart contracts, wallet connectivity, transaction flows, and blockchain data across secure, maintainable full-stack systems.
+
+**Inflectiv — Multi-Chain AI Agent & Data Marketplace**
+Shipped full-stack features on Next.js + FastAPI + PostgreSQL. Built RAG-powered AI agent workflows (+**40%** query efficiency), integrated **EVM + Sui**, and delivered hybrid Stripe + crypto payments with rate-limited credit billing.
+
+**BIG IMMERSIVE — Full Stack Engineer (2y 8m)**
+Built and shipped an OpenSea-style NFT marketplace enabling mint / list / buy / manage flows. Owned Web3 library integrations with smart contracts. Led code reviews and mentored junior developers.
 
 ---
 
