@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=1&pause=999999&color=10B981&center=true&vCenter=true&width=900&height=110&lines=Kamran+Hafeez" alt="Kamran Hafeez" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f0d,25:065f46,50:059669,75:10b981,100:34d399&height=200&section=header&text=Kamran%20Hafeez&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=65&animation=twinkling" width="100%"/>
 
-```console
-> whoami
-Full-Stack Software Engineer · Web3 · AI Agents · Cloud-Native
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=34D399&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=36&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:10b981,100:0a0f0d&height=3&section=header" width="100%"/>
+<a href="https://kamranhafeez-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP;Building+consumer-facing+Web3+that+users+actually+touch." alt="Typing SVG" />
+</a>
 
 <br/>
 
