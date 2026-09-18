@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0b3d,50:4c1d95,75:6d28d9,100:8b5cf6&height=220&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,25:0f1f18,50:065f46,75:059669,100:10b981&height=220&section=header&text=Kamran%20Hafeez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=Full-Stack+Software+Engineer;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=Full-Stack+Software+Engineer;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-UMT%20Lahore-4C1D95?style=for-the-badge&labelColor=0d0221" alt="Education"/>
-  <img src="https://img.shields.io/badge/Class%20of-2021-6D28D9?style=for-the-badge&labelColor=0d0221" alt="Class"/>
-  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-Remote%20%2F%20Relocation-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0221" alt="Location"/>
+  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-UMT%20Lahore-065F46?style=for-the-badge&labelColor=0a0f0d" alt="Education"/>
+  <img src="https://img.shields.io/badge/Class%20of-2021-059669?style=for-the-badge&labelColor=0a0f0d" alt="Class"/>
+  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-Remote%20%2F%20Relocation-10B981?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0f0d" alt="Location"/>
 </p>
 
 <p>
   <a href="https://kamranhafeez-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-065F46?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0d" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/kamranhafeez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f0d" alt="LinkedIn"/>
   </a>
   <a href="mailto:kamranhafeez300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f0d" alt="Email"/>
   </a>
   <a href="https://github.com/kamranhafeez-3499">
-    <img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f0d" alt="GitHub"/>
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kamranhafeez-3499&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kamranhafeez-3499&label=Profile+Views&color=10B981&style=flat-square" alt="Profile Views"/>
   <a href="https://github.com/kamranhafeez-3499?tab=followers">
-    <img src="https://img.shields.io/github/followers/kamranhafeez-3499?label=Followers&style=flat-square&color=6D28D9&labelColor=0d0221" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/kamranhafeez-3499?label=Followers&style=flat-square&color=059669&labelColor=0a0f0d" alt="Followers"/>
   </a>
   <a href="https://github.com/kamranhafeez-3499?tab=repositories">
-    <img src="https://img.shields.io/github/stars/kamranhafeez-3499?label=Stars&style=flat-square&color=4C1D95&labelColor=0d0221" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/kamranhafeez-3499?label=Stars&style=flat-square&color=065F46&labelColor=0a0f0d" alt="Stars"/>
   </a>
 </p>
 
@@ -48,10 +48,10 @@
 I'm a full-stack software engineer with **4+ years** of production experience designing, shipping, and maintaining consumer-facing Web3 systems, including marketplaces, wallets, payment rails, and AI-agent workflows layered on top of blockchains. My work sits at the intersection of **product engineering, applied AI, and on-chain infrastructure**: React and Next.js at the top of the stack, Node.js and FastAPI at the service layer, PostgreSQL and Firebase for persistence, and Solidity-adjacent contract integration underneath. I care about the un-glamorous half of Web3: making contract calls survive slow chains, keeping wallet UX legible when the RPC is flaky, and shipping payment flows that don't collapse under Monday-morning traffic. I own features end-to-end, review code, and mentor the bench behind me.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-4C1D95?style=for-the-badge&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20%26%20Agents-6D28D9?style=for-the-badge&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/Web3-Multi--Chain-8B5CF6?style=for-the-badge&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-Ship%20%26%20Own-A78BFA?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-065F46?style=for-the-badge&labelColor=0a0f0d" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20%26%20Agents-059669?style=for-the-badge&labelColor=0a0f0d" />
+  <img src="https://img.shields.io/badge/Web3-Multi--Chain-10B981?style=for-the-badge&labelColor=0a0f0d" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-Ship%20%26%20Own-34D399?style=for-the-badge&labelColor=0a0f0d" />
 </p>
 
 **Open To**: Senior / Staff Full-Stack roles · Consumer Web3 · On-chain Fintech · AI-Agent product teams · US / EU timezone overlap · Remote-first or relocation for the right team.
@@ -77,11 +77,11 @@ I'm a full-stack software engineer with **4+ years** of production experience de
 **Web3 & Blockchain**
 
 <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Web3"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Wagmi-6D28D9?style=for-the-badge&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" />
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0a0f0d" />
+<img src="https://img.shields.io/badge/Wagmi-059669?style=for-the-badge&labelColor=0a0f0d" />
+<img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&labelColor=0a0f0d" />
 
 **Cloud, DevOps & Tooling**
 
@@ -286,20 +286,20 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 **AWS**
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Planned-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-065F46?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0f0d" />
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Planned-059669?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0f0d" />
 
 **Oracle**
 
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-Planned-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-Planned-10B981?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0f0d" />
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL%20Blockchain%20%26%20Its%20Applications-Planned-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/NPTEL%20Blockchain%20%26%20Its%20Applications-Planned-34D399?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f0d" />
 
 **Cisco**
 
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-Planned-6D28D9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-Planned-059669?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0a0f0d" />
 
 </div>
 
@@ -310,16 +310,16 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20%26%20Grow-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/LeetCode-Solve%20%26%20Grow-065F46?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-059669?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Certified-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/HackerRank-Certified-10B981?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Contests-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/CodeChef-Contests-34D399?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0f0d" />
 </a>
 
 </div>
@@ -329,7 +329,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=holi&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamranhafeez-3499&theme=github_dark&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ---
@@ -337,7 +337,7 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamranhafeez-3499&theme=holi" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamranhafeez-3499&theme=github_dark" alt="Profile Details"/>
 </div>
 
 ---
@@ -387,16 +387,16 @@ open_to:
 <div align="center">
 
 <a href="mailto:kamranhafeez300@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kamranhafeez300%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Gmail-kamranhafeez300%40gmail.com-065F46?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://www.linkedin.com/in/kamranhafeez/">
-  <img src="https://img.shields.io/badge/LinkedIn-in%2Fkamranhafeez-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/LinkedIn-in%2Fkamranhafeez-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://github.com/kamranhafeez-3499">
-  <img src="https://img.shields.io/badge/GitHub-kamranhafeez--3499-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/GitHub-kamranhafeez--3499-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f0d" />
 </a>
 <a href="https://kamranhafeez-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0d" />
 </a>
 
 </div>
@@ -409,6 +409,6 @@ open_to:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,25:6d28d9,50:4c1d95,75:1a0b3d,100:0d0221&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,25:059669,50:065f46,75:0f1f18,100:0a0f0d&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
