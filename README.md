@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Hero banner: assets/hero.svg sliced into clickable tiles by scripts/build-tiles.py.
-     GitHub renders SVGs as static <img>, so hover/click can't happen *inside* the image;
-     each column is instead its own link. Click the name to open the fully interactive SVG. -->
-<p align="center"><a href="https://kamranhafeez-dev.vercel.app/" title="Portfolio"><img src="./assets/tiles/hero-portfolio.svg" width="12.5%" alt="Portfolio"/></a><a href="https://www.linkedin.com/in/kamranhafeez/" title="LinkedIn"><img src="./assets/tiles/hero-linkedin.svg" width="5.8333%" alt="LinkedIn"/></a><a href="https://github.com/kamranhafeez-3499" title="GitHub"><img src="./assets/tiles/hero-github.svg" width="10%" alt="GitHub"/></a><a href="mailto:kamranhafeez300@gmail.com" title="Email"><img src="./assets/tiles/hero-email.svg" width="10.8333%" alt="Email"/></a><a href="https://raw.githubusercontent.com/kamranhafeez-3499/kamranhafeez-3499/main/assets/hero.svg" title="Open the interactive banner"><img src="./assets/tiles/hero-name.svg" width="21.6667%" alt="Open the interactive banner"/></a><a href="#tech-stack" title="Tech stack"><img src="./assets/tiles/hero-stack.svg" width="39.1667%" alt="Tech stack"/></a></p>
-<sub>✦ Click a node to jump there · click the name for the interactive banner</sub>
+<!-- Hero banner (assets/hero.svg): editorial type over a drifting emerald aurora.
+     assets/hero-light.svg is a light-mode twin, ready to pair via <picture> if wanted. -->
+<a href="https://kamranhafeez-dev.vercel.app/" title="Portfolio">
+  <img src="./assets/hero.svg" alt="Kamran Hafeez — Full-Stack Software Engineer" width="100%"/>
+</a>
 
 <a href="https://kamranhafeez-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=48&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Web3+%E2%80%A2+Solidity+%E2%80%A2+Ethers.js+%E2%80%A2+Wagmi+%E2%80%A2+Multi-Chain;AI+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS+%E2%80%A2+GCP;Building+consumer-facing+Web3+that+users+actually+touch." alt="Typing SVG" />
