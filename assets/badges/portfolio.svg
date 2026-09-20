@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="34" viewBox="0 0 384 34" role="img" aria-label="Portfolio: Live">
+  <title>Portfolio: Live</title>
+  <g transform="translate(0,3)">
+    <rect width="208" height="28" fill="#0a0f0d"/>
+    <rect x="208" width="176" height="28" fill="#065F46"/>
+    <path transform="translate(57.5,7.0) scale(0.5833)" fill="#fff" d="m12 1.608 12 20.784H0Z"/>
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" text-rendering="geometricPrecision">
+      <text x="114.5" y="17.6" fill="#fff" textLength="72.0" lengthAdjust="spacing">PORTFOLIO</text>
+      <text x="296.0" y="17.6" fill="#fff" textLength="32.0" lengthAdjust="spacing">LIVE</text>
+    </g>
+  </g>
+</svg>

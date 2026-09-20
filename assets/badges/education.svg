@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="34" viewBox="0 0 384 34" role="img" aria-label="BS Software Engineering: UMT Lahore">
+  <title>BS Software Engineering: UMT Lahore</title>
+  <g transform="translate(0,3)">
+    <rect width="208" height="28" fill="#0a0f0d"/>
+    <rect x="208" width="176" height="28" fill="#065F46"/>
+    
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" text-rendering="geometricPrecision">
+      <text x="104.0" y="17.6" fill="#fff" textLength="184.0" lengthAdjust="spacing">BS SOFTWARE ENGINEERING</text>
+      <text x="296.0" y="17.6" fill="#fff" textLength="80.0" lengthAdjust="spacing">UMT LAHORE</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="34" viewBox="0 0 416 34" role="img" aria-label="NPTEL Blockchain &amp; Its Applications: Planned">
+  <title>NPTEL Blockchain &amp; Its Applications: Planned</title>
+  <g transform="translate(0,3)">
+    <rect width="304" height="28" fill="#0a0f0d"/>
+    <rect x="304" width="112" height="28" fill="#34D399"/>
+    
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" text-rendering="geometricPrecision">
+      <text x="152.0" y="17.6" fill="#fff" textLength="280.0" lengthAdjust="spacing">NPTEL BLOCKCHAIN &amp; ITS APPLICATIONS</text>
+      <text x="360.0" y="17.6" fill="#fff" textLength="56.0" lengthAdjust="spacing">PLANNED</text>
+    </g>
+  </g>
+</svg>
