@@ -6,7 +6,7 @@ contribution calendar (private contributions included, since "Private contributi
 enabled on the profile) and renders two SVGs in the README's emerald palette:
 
   streak.svg    total contributions · current streak · longest streak
-  activity.svg  headline numbers + last-12-months contribution area chart
+  activity.svg  total + last-12-months contributions and an area chart of that year
 
 Runs in .github/workflows/snake.yml every 12h and on push; outputs go to the `output` branch.
 
@@ -58,7 +58,6 @@ PROFILE_Q = """
 query($login: String!) {
   user(login: $login) {
     createdAt
-    repositories(privacy: PUBLIC, ownerAffiliations: OWNER, isFork: false) { totalCount }
   }
 }"""
 
@@ -74,10 +73,9 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 }"""
 
 
-def fetch() -> tuple[dict[dt.date, int], dt.date, int]:
+def fetch() -> tuple[dict[dt.date, int], dt.date]:
     prof = gql(PROFILE_Q, {"login": LOGIN})["user"]
     created = dt.datetime.fromisoformat(prof["createdAt"].replace("Z", "+00:00")).date()
-    repos = prof["repositories"]["totalCount"]
 
     today = dt.datetime.now(dt.timezone.utc).date()
     days: dict[dt.date, int] = {}
@@ -95,7 +93,7 @@ def fetch() -> tuple[dict[dt.date, int], dt.date, int]:
                 if day <= today:
                     days[day] = d["contributionCount"]
         start = dt.date(start.year + 1, 1, 1)
-    return days, created, repos
+    return days, created
 
 
 # ---------------------------------------------------------------- stats
@@ -212,7 +210,7 @@ def smooth_path(pts: list[tuple[float, float]]) -> str:
     return " ".join(d)
 
 
-def activity_card(days: dict[dt.date, int], total: int, repos: int, created: dt.date, today: dt.date) -> str:
+def activity_card(days: dict[dt.date, int], total: int, created: dt.date, today: dt.date) -> str:
     W, H = 870, 260
     # weekly buckets for the last 52 weeks
     weeks: list[tuple[dt.date, int]] = []
@@ -266,13 +264,13 @@ def activity_card(days: dict[dt.date, int], total: int, repos: int, created: dt.
   <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="12" fill="{BG}" stroke="{BORDER}"/>
 
   <text x="32" y="52" class="name">{escape(LOGIN)}</text>
-  <text x="32" y="106" class="big">{fmt_short(total)}</text>
-  <text x="32" y="128" class="lbl">contributions on GitHub</text>
-  <text x="32" y="168" class="big">{repos}</text>
-  <text x="32" y="190" class="lbl">public repositories</text>
+  <text x="32" y="118" class="big">{fmt_short(total)}</text>
+  <text x="32" y="140" class="lbl">contributions on GitHub</text>
+  <text x="32" y="176" class="big">{fmt_short(last_year)}</text>
+  <text x="32" y="198" class="lbl">in the last 12 months</text>
   <text x="32" y="228" class="lbl">Joined GitHub {years} year{'s' if years != 1 else ''} ago · {escape(created.strftime('%b %Y'))}</text>
 
-  <text x="{cx1}" y="40" class="hdr" text-anchor="end">{fmt_num(last_year)} contributions in the last year</text>
+  <text x="{cx1}" y="40" class="hdr" text-anchor="end">weekly contributions · last 12 months</text>
   {grid}
   <g clip-path="url(#chart)">
     <path class="reveal" d="{area}" fill="url(#fill)"/>
@@ -286,14 +284,14 @@ def activity_card(days: dict[dt.date, int], total: int, repos: int, created: dt.
 
 def main() -> None:
     today = dt.datetime.now(dt.timezone.utc).date()
-    days, created, repos = fetch()
+    days, created = fetch()
     total = sum(days.values())
     first, current, cur_range, best, best_range = streaks(days, today)
 
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "streak.svg").write_text(streak_card(total, first, current, cur_range, best, best_range, today), encoding="utf-8", newline="\n")
-    (OUT / "activity.svg").write_text(activity_card(days, total, repos, created, today), encoding="utf-8", newline="\n")
-    print(f"total={total} first={first} current={current} {cur_range} longest={best} {best_range} repos={repos} -> {OUT}")
+    (OUT / "activity.svg").write_text(activity_card(days, total, created, today), encoding="utf-8", newline="\n")
+    print(f"total={total} first={first} current={current} {cur_range} longest={best} {best_range} -> {OUT}")
 
 
 if __name__ == "__main__":
