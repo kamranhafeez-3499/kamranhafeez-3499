@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="384" height="34" viewBox="0 0 384 34" role="img" aria-label="Portfolio: Live">
   <title>Portfolio: Live</title>
-  <g transform="translate(0,3)">
+  <clipPath id="rounded"><rect width="384" height="28" rx="5"/></clipPath>
+  <g transform="translate(0,3)" clip-path="url(#rounded)">
     <rect width="208" height="28" fill="#0a0f0d"/>
     <rect x="208" width="176" height="28" fill="#065F46"/>
     <path transform="translate(57.5,7.0) scale(0.5833)" fill="#fff" d="m12 1.608 12 20.784H0Z"/>

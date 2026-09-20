@@ -53,12 +53,17 @@
 
 I'm a full-stack software engineer with **4+ years** of production experience designing, shipping, and maintaining consumer-facing Web3 systems, including marketplaces, wallets, payment rails, and AI-agent workflows layered on top of blockchains. My work sits at the intersection of **product engineering, applied AI, and on-chain infrastructure**: React and Next.js at the top of the stack, Node.js and FastAPI at the service layer, PostgreSQL and Firebase for persistence, and Solidity-adjacent contract integration underneath. I care about the un-glamorous half of Web3: making contract calls survive slow chains, keeping wallet UX legible when the RPC is flaky, and shipping payment flows that don't collapse under Monday-morning traffic. I own features end-to-end, review code, and mentor the bench behind me.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-065F46?style=for-the-badge&labelColor=0a0f0d" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20%26%20Agents-059669?style=for-the-badge&labelColor=0a0f0d" />
-  <img src="https://img.shields.io/badge/Web3-Multi--Chain-10B981?style=for-the-badge&labelColor=0a0f0d" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-Ship%20%26%20Own-34D399?style=for-the-badge&labelColor=0a0f0d" />
-</p>
+<!-- Fixed-width badges (scripts/build-badges.py, set "focus") in a 2x2 grid. -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="./assets/badges/focus/software-engineering.svg" alt="Software Engineering: Full Stack"/></td>
+    <td align="center"><img src="./assets/badges/focus/ai-ml.svg" alt="AI / ML: RAG and Agents"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/badges/focus/web3.svg" alt="Web3: Multi-Chain"/></td>
+    <td align="center"><img src="./assets/badges/focus/product-engineering.svg" alt="Product Engineering: Ship and Own"/></td>
+  </tr>
+</table>
 
 **Open To**: Senior / Staff Full-Stack roles · Consumer Web3 · On-chain Fintech · AI-Agent product teams · US / EU timezone overlap · Remote-first or relocation for the right team.
 
@@ -66,46 +71,59 @@ I'm a full-stack software engineer with **4+ years** of production experience de
 
 ## Tech Stack
 
-<!-- Titles are h4s: same look as bold text, with a fixed 16px gap to their icons. A <br/>
-     between groups widens the group gap so each title clearly belongs to the row below it. -->
-<div align="center">
+<!-- One bordered card per group (a table is the only bordered element GitHub markdown allows).
+     The shared width attribute keeps every card the same size; GitHub's table margin spaces them. -->
+<table align="center">
+  <tr>
+    <th align="center" width="760">Languages</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,solidity,python,java&theme=dark" alt="TypeScript, JavaScript, Solidity, Python, Java"/></td>
+  </tr>
+</table>
 
-#### Languages
+<table align="center">
+  <tr>
+    <th align="center" width="760">Frontend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma&theme=dark" alt="React, Next.js, Redux, Tailwind, HTML, CSS, Figma"/></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,solidity,python,java&theme=dark" alt="TypeScript, JavaScript, Solidity, Python, Java"/>
-</p>
+<table align="center">
+  <tr>
+    <th align="center" width="760">Backend &amp; Databases</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,firebase,redis,mongodb&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, Firebase, Redis, MongoDB"/></td>
+  </tr>
+</table>
 
-#### Frontend
+<table align="center">
+  <tr>
+    <th align="center" width="760">Web3 &amp; Blockchain</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" alt="Ethereum"/>
+      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" alt="Ethers.js"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0a0f0d" alt="Web3.js"/>
+      <img src="https://img.shields.io/badge/Wagmi-059669?style=for-the-badge&labelColor=0a0f0d" alt="Wagmi"/>
+      <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&labelColor=0a0f0d" alt="Sui"/>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma&theme=dark" alt="React, Next.js, Redux, Tailwind, HTML, CSS, Figma"/>
-</p>
-
-#### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,firebase,redis,mongodb&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, Firebase, Redis, MongoDB"/>
-</p>
-
-#### Web3 & Blockchain
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0f0d" alt="Ethers.js"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0a0f0d" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Wagmi-059669?style=for-the-badge&labelColor=0a0f0d" alt="Wagmi"/>
-  <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&labelColor=0a0f0d" alt="Sui"/>
-</p>
-
-#### Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,netlify,git,github,jest,postman&theme=dark" alt="AWS, GCP, Docker, GitHub Actions, Vercel, Netlify, Git, GitHub, Jest, Postman"/>
-</p>
-
-</div>
+<table align="center">
+  <tr>
+    <th align="center" width="760">Cloud, DevOps &amp; Tooling</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,netlify,git,github,jest,postman&theme=dark" alt="AWS, GCP, Docker, GitHub Actions, Vercel, Netlify, Git, GitHub, Jest, Postman"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -142,7 +160,6 @@ A full-stack Web3 SaaS platform combining AI-agent workflows, decentralized encr
 | **Performance** | **+40%** query efficiency via RAG-powered retrieval agents |
 | **Security** | Encrypted storage, credit-based rate limiting, hybrid Stripe + crypto billing |
 | **Impact** | End-to-end platform enabling **100+** transactions with production-grade payment reliability |
-| **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
 Architected the full-stack platform end-to-end: designed the retrieval pipeline for AI agents, integrated Stripe and cryptocurrency payment rails behind a unified credit ledger, and delivered secure data-access controls that enhanced protection standards by 35%.
 
@@ -162,7 +179,6 @@ An OpenSea-style NFT marketplace where a stranger can land on a page, connect a 
 | **Performance** | **+30%** mobile responsiveness score via UI rendering optimizations |
 | **Security** | Wallet-based auth, replay-safe transaction pipelines |
 | **Impact** | **-18%** failed transactions through hardened submission + retry logic |
-| **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
 Built the marketplace flows end-to-end (mint, list, discover, purchase) with production-grade wallet authentication, smart-contract interaction layers, and defensive transaction pipelines tuned for flaky RPCs and slow-chain conditions.
 
@@ -182,7 +198,6 @@ A decentralized staking platform that tracks token rewards, validates state, and
 | **Performance** | **+40%** analytics visibility via real-time dashboards |
 | **Security** | **+25%** reward validation accuracy through backend indexing services |
 | **Impact** | Reliable staking UX with transparent reward accounting |
-| **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
 Engineered a delegated-proof-of-stake dashboard tightly coupled with an off-chain indexer to reconcile on-chain reward events, deliver low-latency analytics, and eliminate reward drift.
 
@@ -202,7 +217,6 @@ A production Next.js CMS engineered for SEO-heavy content and scalable feature e
 | **Performance** | **+35%** indexing coverage via SSR + sitemap generation |
 | **Security** | Firebase Auth + role-based access |
 | **Impact** | **+20%** organic reach through dynamic routing and structured metadata |
-| **Repository** | [`kamranhafeez-3499`](https://github.com/kamranhafeez-3499) |
 
 Designed a modular content architecture with server-side rendering, dynamic route generation, and automated sitemap emission, enabling the growth team to scale content without engineering bottlenecks.
 
@@ -331,22 +345,17 @@ Consulted on Inflectiv's multi-chain AI-agent and data marketplace platform, con
 
 ## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20%26%20Grow-065F46?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-059669?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Certified-10B981?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Contests-34D399?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0f0d" />
-</a>
-
-</div>
+<!-- Fixed-width badges (scripts/build-badges.py, set "coding") in a 2x2 grid. -->
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://leetcode.com/"><img src="./assets/badges/coding/leetcode.svg" alt="LeetCode: solve and grow"/></a></td>
+    <td align="center"><a href="https://www.geeksforgeeks.org/"><img src="./assets/badges/coding/geeksforgeeks.svg" alt="GeeksforGeeks: practice"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.hackerrank.com/"><img src="./assets/badges/coding/hackerrank.svg" alt="HackerRank: certified"/></a></td>
+    <td align="center"><a href="https://www.codechef.com/"><img src="./assets/badges/coding/codechef.svg" alt="CodeChef: contests"/></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -408,22 +417,17 @@ open_to:
 
 ## Connect
 
-<div align="center">
-
-<a href="mailto:kamranhafeez300@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kamranhafeez300%40gmail.com-065F46?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://www.linkedin.com/in/kamranhafeez/">
-  <img src="https://img.shields.io/badge/LinkedIn-in%2Fkamranhafeez-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://github.com/kamranhafeez-3499">
-  <img src="https://img.shields.io/badge/GitHub-kamranhafeez--3499-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f0d" />
-</a>
-<a href="https://kamranhafeez-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Work-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0f0d" />
-</a>
-
-</div>
+<!-- Fixed-width badges (scripts/build-badges.py, set "connect") in a 2x2 grid. -->
+<table align="center">
+  <tr>
+    <td align="center"><a href="mailto:kamranhafeez300@gmail.com"><img src="./assets/badges/connect/gmail.svg" alt="Gmail: kamranhafeez300@gmail.com"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kamranhafeez/"><img src="./assets/badges/connect/linkedin.svg" alt="LinkedIn: in/kamranhafeez"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/kamranhafeez-3499"><img src="./assets/badges/connect/github.svg" alt="GitHub: kamranhafeez-3499"/></a></td>
+    <td align="center"><a href="https://kamranhafeez-dev.vercel.app/"><img src="./assets/badges/connect/portfolio.svg" alt="Portfolio: view work"/></a></td>
+  </tr>
+</table>
 
 ---
 

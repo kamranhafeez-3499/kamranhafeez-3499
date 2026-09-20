@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="34" viewBox="0 0 304 34" role="img" aria-label="Software Engineering: Full Stack">
+  <title>Software Engineering: Full Stack</title>
+  <clipPath id="rounded"><rect width="304" height="28" rx="5"/></clipPath>
+  <g transform="translate(0,3)" clip-path="url(#rounded)">
+    <rect width="184" height="28" fill="#0a0f0d"/>
+    <rect x="184" width="120" height="28" fill="#065F46"/>
+    
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" text-rendering="geometricPrecision">
+      <text x="92.0" y="17.6" fill="#fff" textLength="160.0" lengthAdjust="spacing">SOFTWARE ENGINEERING</text>
+      <text x="244.0" y="17.6" fill="#fff" textLength="80.0" lengthAdjust="spacing">FULL STACK</text>
+    </g>
+  </g>
+</svg>

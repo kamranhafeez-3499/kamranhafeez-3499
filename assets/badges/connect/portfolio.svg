@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="341" height="34" viewBox="0 0 341 34" role="img" aria-label="Portfolio: View Work">
+  <title>Portfolio: View Work</title>
+  <clipPath id="rounded"><rect width="341" height="28" rx="5"/></clipPath>
+  <g transform="translate(0,3)" clip-path="url(#rounded)">
+    <rect width="117" height="28" fill="#0a0f0d"/>
+    <rect x="117" width="224" height="28" fill="#34D399"/>
+    <path transform="translate(12.0,7.0) scale(0.5833)" fill="#fff" d="m12 1.608 12 20.784H0Z"/>
+    <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" text-rendering="geometricPrecision">
+      <text x="69.0" y="17.6" fill="#fff" textLength="72.0" lengthAdjust="spacing">PORTFOLIO</text>
+      <text x="229.0" y="17.6" fill="#fff" textLength="72.0" lengthAdjust="spacing">VIEW WORK</text>
+    </g>
+  </g>
+</svg>

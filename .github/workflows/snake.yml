@@ -17,9 +17,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: kamranhafeez-3499
+          # Emerald theme matching the README (badges/hero): dots are empty->high activity.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#022c22&color_dots=#ecfdf5,#a7f3d0,#34d399,#10b981,#059669
+            dist/github-snake-dark.svg?color_snake=#a7f3d0&color_dots=#0f1f18,#065f46,#059669,#10b981,#34d399
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

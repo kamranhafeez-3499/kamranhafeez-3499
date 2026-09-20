@@ -20,6 +20,7 @@ HEIGHT = 28
 # WIDTH is derived: label section fits the longest label, colour bar fits the longest message,
 # so every badge shares one split point and the colour bars line up as equal blocks.
 VPAD = 3                         # transparent margin above/below, so stacked badges breathe
+RADIUS = 5                       # rounded outer corners (applied via clip so the colour split stays sharp)
 LABEL_BG = "#0a0f0d"
 FONT = "Verdana,Geneva,DejaVu Sans,sans-serif"
 CHAR_W = 8.0                     # forced width per uppercase char at 10px bold + letter spacing
@@ -40,6 +41,24 @@ SETS = {
         ("linkedin",     "LinkedIn",                "Connect",             "#059669", "linkedin-glyph"),
         ("email",        "Email",                   "Reach Out",           "#10B981", "gmail"),
         ("github",       "GitHub",                  "Follow",              "#34D399", "github"),
+    ],
+    "focus": [  # About section: 2x2 grid of focus areas -> assets/badges/focus/*.svg
+        ("software-engineering", "Software Engineering", "Full Stack",   "#065F46", None),
+        ("ai-ml",                "AI / ML",              "RAG & Agents", "#059669", None),
+        ("web3",                 "Web3",                 "Multi-Chain",  "#10B981", None),
+        ("product-engineering",  "Product Engineering",  "Ship & Own",   "#34D399", None),
+    ],
+    "coding": [  # Coding Profiles: 2x2 grid -> assets/badges/coding/*.svg
+        ("leetcode",      "LeetCode",      "Solve & Grow", "#065F46", "leetcode"),
+        ("geeksforgeeks", "GeeksforGeeks", "Practice",     "#059669", "geeksforgeeks"),
+        ("hackerrank",    "HackerRank",    "Certified",    "#10B981", "hackerrank"),
+        ("codechef",      "CodeChef",      "Contests",     "#34D399", "codechef"),
+    ],
+    "connect": [  # Connect section: 2x2 grid -> assets/badges/connect/*.svg
+        ("gmail",     "Gmail",     "kamranhafeez300@gmail.com", "#065F46", "gmail"),
+        ("linkedin",  "LinkedIn",  "in/kamranhafeez",           "#059669", "linkedin-glyph"),
+        ("github",    "GitHub",    "kamranhafeez-3499",         "#10B981", "github"),
+        ("portfolio", "Portfolio", "View Work",                 "#34D399", "vercel"),
     ],
     "certs": [  # Certifications table -> assets/badges/certs/*.svg
         ("aws-cloud-practitioner",  "AWS Cloud Practitioner",             "In Progress", "#065F46", None),
@@ -94,7 +113,8 @@ def build(slug: str, label: str, message: str, color: str, icon: str | None, lab
     total_h = HEIGHT + 2 * VPAD
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{total_h}" viewBox="0 0 {WIDTH} {total_h}" role="img" aria-label="{label}: {message}">
   <title>{label}: {message}</title>
-  <g transform="translate(0,{VPAD})">
+  <clipPath id="rounded"><rect width="{WIDTH}" height="{HEIGHT}" rx="{RADIUS}"/></clipPath>
+  <g transform="translate(0,{VPAD})" clip-path="url(#rounded)">
     <rect width="{label_w}" height="{HEIGHT}" fill="{LABEL_BG}"/>
     <rect x="{label_w}" width="{msg_w}" height="{HEIGHT}" fill="{color}"/>
     {icon_markup(icon, icon_x, (HEIGHT - ICON) / 2)}

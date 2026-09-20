@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="416" height="34" viewBox="0 0 416 34" role="img" aria-label="Cisco Networking Essentials: Planned">
   <title>Cisco Networking Essentials: Planned</title>
-  <g transform="translate(0,3)">
+  <clipPath id="rounded"><rect width="416" height="28" rx="5"/></clipPath>
+  <g transform="translate(0,3)" clip-path="url(#rounded)">
     <rect width="304" height="28" fill="#0a0f0d"/>
     <rect x="304" width="112" height="28" fill="#059669"/>
     
