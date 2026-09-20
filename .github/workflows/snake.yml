@@ -1,5 +1,7 @@
-name: Generate Snake
+name: Generate profile assets
 
+# Regenerates the contribution snake and the self-hosted stats cards (streak + activity)
+# and publishes them to the `output` branch, which the README embeds via raw URLs.
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -14,6 +16,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: kamranhafeez-3499
@@ -21,6 +25,18 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#022c22&color_dots=#ecfdf5,#a7f3d0,#34d399,#10b981,#059669
             dist/github-snake-dark.svg?color_snake=#a7f3d0&color_dots=#0f1f18,#065f46,#059669,#10b981,#34d399
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats cards (streak + activity)
+        # Private contributions are included because "Private contributions" is enabled on the
+        # profile; the built-in token is enough. Standard library only, no pip install.
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: kamranhafeez-3499
+        run: python scripts/build-stats.py dist
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
