@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub streak: 12,981 total contributions, current streak 6 days, longest streak 48 days">
+  <title>GitHub streak</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .num { font-size: 28px; font-weight: 700; fill: #ecfdf5; }
+    .lbl { font-size: 14px; font-weight: 600; fill: #a7f3d0; }
+    .sub { font-size: 12px; fill: #6ee7b7; }
+    .ring { animation: grow 0.9s ease-out forwards; stroke-dasharray: 0 999; }
+    @keyframes grow { to { stroke-dasharray: 999 0; } }
+    @media (prefers-reduced-motion: reduce) { .ring { animation: none; stroke-dasharray: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#0a0f0d" stroke="#065f46"/>
+  <line x1="165" y1="30" x2="165" y2="165" stroke="#065f46" stroke-width="1"/>
+  <line x1="330" y1="30" x2="330" y2="165" stroke="#065f46" stroke-width="1"/>
+
+  <g text-anchor="middle">
+    <text x="82.5" y="82" class="num">12,981</text>
+    <text x="82.5" y="112" class="lbl">Total Contributions</text>
+    <text x="82.5" y="136" class="sub">Jan 2, 2022 - Present</text>
+  </g>
+
+  <g text-anchor="middle">
+    <circle cx="247.5" cy="78" r="40" fill="none" stroke="#065f46" stroke-width="5"/>
+    <circle class="ring" cx="247.5" cy="78" r="40" fill="none" stroke="#10b981" stroke-width="5" stroke-linecap="round" transform="rotate(-90 247.5 78)"/>
+    <circle cx="247.5" cy="38" r="5" fill="#34d399"/>
+    <text x="247.5" y="87" class="num">6</text>
+    <text x="247.5" y="142" class="lbl">Current Streak</text>
+    <text x="247.5" y="162" class="sub">Sep 20 - Sep 25</text>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="412.5" y="82" class="num">48</text>
+    <text x="412.5" y="112" class="lbl">Longest Streak</text>
+    <text x="412.5" y="136" class="sub">Nov 10 - Dec 27, 2024</text>
+  </g>
+</svg>
